@@ -11,6 +11,31 @@ Simulated but behaviorally accurate transactional data with:
 
 Data is simulated to reflect real-world buying patterns such as repeat business, category leadership, payment methods, and revenue distribution.
 
+## Key Analyses Performed
+
+### Revenue & Growth
+- Total revenue and total orders
+- Average Order Value (AOV)
+- Monthly revenue trends
+- Month-over-month revenue growth
+
+### Customer Behavior
+- Repeat vs one-time customers
+- Average time between orders
+- First vs repeat purchase revenue
+- Funnel analysis based on order count
+
+### Retention & Cohorts
+- Monthly customer retention rate
+- Cohort-based retention analysis
+- Identification of customers with increasing spend trends
+
+### Value & Contribution Analysis
+- Customer Lifetime Value (CLV)
+- Pareto (80/20) revenue analysis
+- Top customers per month
+- Category-wise and city-wise revenue contribution
+
 ## Business Questions Answered
 - What is the total and monthly revenue trend?
 - Which customers generate the most revenue?
