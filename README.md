@@ -1,8 +1,8 @@
 # Customer-Revenue-Retention-analysis-SQL-CASE-STUDY-
 
 ## Purpose
-Use SQL to analyze customer buying behavior, revenue trends, and retention patterns for business decision-making.
-
+This is an e-commerce platform experiencing stagnant revenue growth despite increasing order volume. Leadership wants to know if growth should come from increasing order value, retention, or acquisition.
+Using SQL to analyze customer buying behavior, revenue trends, and retention patterns for business decision-making.
 ## Data
 Simulated but behaviorally accurate transactional data with:
 - customers
